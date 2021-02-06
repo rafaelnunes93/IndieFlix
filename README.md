@@ -5,10 +5,10 @@ INDIEFLIX
 
 Este projeto é um clone do netiflix, adaptado para ser um site onde voce podera ver trailes e gameplays de jogos de desenvolvedores independentes.
 
-Make here a comment about you project.
+
 
 ## Layout web
-![Web 1](https://github.com/rafaelnunes93/IndieFlix/blob/main/img/Screenshot_1.png
+![Web 1](https://github.com/rafaelnunes93/IndieFlix/blob/main/img/Screenshot_1.png)
 
 ![Web 2](https://github.com/rafaelnunes93/IndieFlix/blob/main/img/Screenshot_2.png)
 
