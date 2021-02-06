@@ -4,6 +4,7 @@ INDIEFLIX
 # SOBRE
 
 Este projeto é um clone do netiflix, adaptado para ser um site onde voce podera ver trailes e gameplays de jogos de desenvolvedores independentes.
+(Este projeto foi desenvolvido como parte do conteudo proposto no curso da digital innovation One)
 
 
 
@@ -17,7 +18,7 @@ Este projeto é um clone do netiflix, adaptado para ser um site onde voce podera
 ## Front end
 - HTML / CSS / JS /
 - 
-- 
+
 
 
 # Autor
